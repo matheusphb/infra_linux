@@ -91,5 +91,3 @@ Ao executar o script, você pode esperar ver algo como:
 ```
 
 ---
-
-Esse **README** cobre as principais informações para que alguém possa entender como usar e configurar o seu script `setup_infra.sh`. Se precisar de mais detalhes ou ajustes, me avise!
