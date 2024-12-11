@@ -1,5 +1,3 @@
-Aqui está um exemplo de um **README** para o seu script `setup_infra.sh`, explicando como usá-lo, seus requisitos e o que ele faz:
-
 ---
 
 # README para o script `setup_infra.sh`
